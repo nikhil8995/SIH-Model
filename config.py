@@ -56,7 +56,7 @@ class ThresholdConfig:
     tau_mid: float = 0.55
     tau_low: float = 0.45
     tau_eff: float = 0.65
-    tau_submit: float = 0.60
+    tau_submit: float = 0.65
     margin_delta: float = 0.12
 
 
